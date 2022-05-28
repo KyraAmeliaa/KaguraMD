@@ -1,7 +1,8 @@
 exports.menu = (botname, pushname, salam, ownername, time, tanggal) => {
 	return`Selamat *${salam}* ${pushname} 👋
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
+Dimohon untuk tida memakai fitur 18+ didalam grup,jika kamu memakai fitur 18+ didalam grup
+kamu akan di blokir oleh owner, Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
   👑 Creator : *RakaNovan*
