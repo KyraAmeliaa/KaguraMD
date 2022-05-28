@@ -4,7 +4,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *RakaNovan*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -973,7 +973,7 @@ exports.thanksto = () => {
   *≻* Riy Botz
   *≻* Deff
   *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Frmn
+  *≻* Raka Novan
 `
 }
