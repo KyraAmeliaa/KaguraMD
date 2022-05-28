@@ -3298,10 +3298,10 @@ reply("Succes Mengganti Menu "+q)
 break
 case 'menu': {
 if(typemenu == 'allmenu'){
-await kagura.send5ButImg(from, `` + '' + lang.menu(botname, pushname, salam, ownername, time, tanggal), `Wade in Indonesia, Palembang 🇲🇨`,thumb, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": `Github`,"url": `${myweb}`}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}}] )
+await kagura.send5ButImg(from, `` + '' + lang.menu(botname, pushname, salam, ownername, time, tanggal), `Wade in Indonesia, Jakarta Raya 🇲🇨`,thumb, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": `Github`,"url": `${myweb}`}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}}] )
 }
 if(typemenu == 'simple'){
-await kagura.send5ButImg(from, `` + '' + lang.menusimpel(botname, pushname, salam, ownername, time, tanggal), `Wade in Indonesia, Palembang 🇲🇨`,thumb, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": `Github`,"url": `${myweb}`}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}}] )
+await kagura.send5ButImg(from, `` + '' + lang.menusimpel(botname, pushname, salam, ownername, time, tanggal), `Wade in Indonesia, Jakarta Raya 🇲🇨`,thumb, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": `Github`,"url": `${myweb}`}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}}] )
 }
 }
 break
